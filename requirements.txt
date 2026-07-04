@@ -1,0 +1,11 @@
+chromadb
+pdfplumber
+python-docx
+beautifulsoup4
+requests
+networkx
+pyvis
+ipywidgets
+pymupdf
+tqdm
+gdown
